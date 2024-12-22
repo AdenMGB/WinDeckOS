@@ -1,0 +1,134 @@
+﻿22/12/2024 2:26:07 PM	Load tool settings
+22/12/2024 2:26:07 PM	NTLite v2024.12.10221 x64
+22/12/2024 2:26:07 PM	CPU threads 12
+22/12/2024 2:26:09 PM	Gather host hardware
+22/12/2024 2:26:09 PM	 - GH
+22/12/2024 2:26:09 PM	 - Gather image list
+22/12/2024 2:26:09 PM	Save tool settings
+22/12/2024 2:26:09 PM	Load image list
+22/12/2024 2:26:09 PM	SHD
+22/12/2024 2:26:09 PM	Host: Windows 11 Professional 24H2 x64 - 10.0.26100.1457 (en-US)
+22/12/2024 2:26:09 PM	Image list checkup
+22/12/2024 2:35:49 PM	 - Gather image list
+22/12/2024 2:35:49 PM	Save tool settings
+22/12/2024 2:35:49 PM	Load image list
+22/12/2024 2:35:49 PM	Image list checkup
+22/12/2024 2:35:49 PM	Image load: Windows X-Lite 'Optimum 11 24H2' Pro v4.2 [Defender Off] - C:\Users\Admin\Desktop\winiso\[Windows X-Lite] Optimum 11 24H2 Pro v4.2\sources\install.wim
+22/12/2024 2:35:49 PM	SM [m]: C:\Users\Admin\Desktop\winiso\[Windows X-Lite] Optimum 11 24H2 Pro v4.2\sources\install.wim
+22/12/2024 2:35:49 PM	Mounting image: C:\Users\Admin\Desktop\winiso\[Windows X-Lite] Optimum 11 24H2 Pro v4.2\sources\install.wim - Windows X-Lite 'Optimum 11 24H2' Pro v4.2 [Defender Off]
+22/12/2024 2:35:49 PM		Mount dir: C:\Users\Admin\AppData\Local\Temp\NLTmpMnt
+22/12/2024 2:35:49 PM	GWH
+22/12/2024 2:36:59 PM	SM [m]: clr
+22/12/2024 2:36:59 PM	# 
+22/12/2024 2:37:00 PM	Windows 11 Professional 24H2 x64 - 10.0.26100.1457
+22/12/2024 2:37:00 PM	Reading data: Windows 11 Professional 24H2 x64 - 10.0.26100.1457 (en-US)
+22/12/2024 2:37:00 PM	- Gather hardware lists
+22/12/2024 2:37:00 PM	- Gather packages
+22/12/2024 2:37:05 PM	 - Package sorting
+22/12/2024 2:37:05 PM	 - Connecting PBC
+22/12/2024 2:37:05 PM	- Filtering packages
+22/12/2024 2:37:06 PM	- Gather existing drivers
+22/12/2024 2:37:06 PM		695 Drivers
+22/12/2024 2:37:06 PM	SPR
+22/12/2024 2:37:07 PM	- Gather services
+22/12/2024 2:37:09 PM	- Gather driver services
+22/12/2024 2:37:09 PM	- Gather scheduled tasks
+22/12/2024 2:37:10 PM	- Gather components
+22/12/2024 2:37:10 PM	- Gather languages
+22/12/2024 2:37:10 PM	- Gather keyboards
+22/12/2024 2:37:10 PM	- Gather fonts
+22/12/2024 2:37:11 PM	- Connect drivers
+22/12/2024 2:37:11 PM	- Gather tweaks
+22/12/2024 2:37:12 PM	Skipping EventLog-Application due to setup requirement
+22/12/2024 2:37:12 PM	Skipping EventLog-Security due to setup requirement
+22/12/2024 2:37:12 PM	Skipping EventLog-System due to setup requirement
+22/12/2024 2:37:12 PM	- Gather unattended data
+22/12/2024 2:37:12 PM		- Timezones
+22/12/2024 2:37:12 PM		- Keyboards
+22/12/2024 2:37:12 PM		- Locales
+22/12/2024 2:37:12 PM	- Gather unattended options
+22/12/2024 2:37:12 PM	# 
+22/12/2024 2:37:12 PM		-Loading components
+22/12/2024 2:37:12 PM	- Apply compatibility options
+22/12/2024 2:37:12 PM		-Loading Apply options
+22/12/2024 2:37:12 PM	 - Gather image list
+22/12/2024 2:37:12 PM	Save tool settings
+22/12/2024 2:37:12 PM	Load image list
+22/12/2024 2:37:12 PM	Windows 11 Professional 24H2 x64 - 10.0.26100.1457
+22/12/2024 2:37:12 PM	Image list checkup
+22/12/2024 2:37:12 PM		-Loading features
+22/12/2024 2:37:12 PM		-Loading drivers
+22/12/2024 2:37:12 PM		-Loading unattended
+22/12/2024 2:37:12 PM	- Gather unattended options
+22/12/2024 2:37:12 PM		-Loading tweaks
+22/12/2024 2:37:12 PM		-Loading execution list
+22/12/2024 2:37:12 PM	- Gather existing Post-Setup Machine
+22/12/2024 2:37:12 PM	- Gather existing Post-Setup User
+22/12/2024 2:37:12 PM		-Loading registry list
+22/12/2024 2:37:12 PM		-Loading updates
+22/12/2024 2:37:12 PM	# 
+22/12/2024 2:37:12 PM	# 
+22/12/2024 2:37:12 PM	- UnReg (di:0)
+22/12/2024 2:37:12 PM	Cleaning
+22/12/2024 2:37:12 PM	Waiting for other operations to finish
+22/12/2024 2:37:13 PM	Completed - Image load
+22/12/2024 2:37:13 PM	SM [po]: clr
+22/12/2024 2:37:13 PM	 - Gather image list
+22/12/2024 2:37:13 PM	Save tool settings
+22/12/2024 2:37:13 PM	Load image list
+22/12/2024 2:37:13 PM	Windows 11 Professional 24H2 x64 - 10.0.26100.1457
+22/12/2024 2:37:13 PM	Image list checkup
+22/12/2024 2:37:26 PM	- Listing post-setup executions
+22/12/2024 2:39:14 PM	Start applying all of the pending changes.
+22/12/2024 2:39:14 PM	# 
+22/12/2024 2:39:14 PM	Save tool settings
+22/12/2024 2:39:14 PM	- Save preset: Auto-saved 5599785f
+22/12/2024 2:39:14 PM	Unattended: pass 'Generalize'
+22/12/2024 2:39:14 PM	Unattended: pass 'OOBE (Final install options)'
+22/12/2024 2:39:14 PM	Unattended: pass 'Specialize'
+22/12/2024 2:39:14 PM	Unattended: pass 'WindowsPE (Setup options)'
+22/12/2024 2:39:14 PM	Unattended: pass 'Generalize'
+22/12/2024 2:39:14 PM	Unattended: pass 'OOBE (Final install options)'
+22/12/2024 2:39:14 PM	Unattended: pass 'Specialize'
+22/12/2024 2:39:14 PM	Unattended: pass 'WindowsPE (Setup options)'
+22/12/2024 2:39:14 PM	 - Gather image list
+22/12/2024 2:39:14 PM	Save tool settings
+22/12/2024 2:39:14 PM	Load image list
+22/12/2024 2:39:14 PM	Windows 11 Professional 24H2 x64 - 10.0.26100.1457
+22/12/2024 2:39:14 PM	Image list checkup
+22/12/2024 2:39:14 PM	# 
+22/12/2024 2:39:14 PM	Windows 11 Professional 24H2 x64 - 10.0.26100.1457
+22/12/2024 2:39:14 PM	# 
+22/12/2024 2:39:14 PM	# 
+22/12/2024 2:39:14 PM	# 
+22/12/2024 2:39:14 PM	# 
+22/12/2024 2:39:14 PM	# 
+22/12/2024 2:39:14 PM	# 
+22/12/2024 2:39:14 PM	# 
+22/12/2024 2:39:14 PM	# 
+22/12/2024 2:39:14 PM	# 
+22/12/2024 2:39:14 PM	# 
+22/12/2024 2:39:14 PM	# 
+22/12/2024 2:39:14 PM	# 
+22/12/2024 2:39:14 PM	Applying - Post-Setup tasks
+22/12/2024 2:39:15 PM	Integrating: C:\Users\Admin\Desktop\explorer.bat
+22/12/2024 2:39:15 PM	# 
+22/12/2024 2:39:17 PM	- UnReg (di:1)
+22/12/2024 2:39:17 PM	- UnReg (di:0)
+22/12/2024 2:39:19 PM	Saving changes to the image - C:\Users\Admin\Desktop\winiso\[Windows X-Lite] Optimum 11 24H2 Pro v4.2\sources\install.wim - Windows 11 Professional 24H2 x64 - 10.0.26100.1457 (en-US)
+22/12/2024 2:39:19 PM	SM [um]: C:\Users\Admin\Desktop\winiso\[Windows X-Lite] Optimum 11 24H2 Pro v4.2\sources\install.wim
+22/12/2024 2:39:19 PM	- UnReg (di:1)
+22/12/2024 2:44:32 PM	Deleting temporary files: C:\Users\Admin\AppData\Local\Temp\NLTmpMnt
+22/12/2024 2:44:32 PM	Cleaning mount directory
+22/12/2024 2:44:32 PM	SM [um]: clr
+22/12/2024 2:44:32 PM	# 
+22/12/2024 2:44:32 PM	Checking ei.cfg
+22/12/2024 2:44:32 PM	SM [e]: C:\Users\Admin\Desktop\winiso\[Windows X-Lite] Optimum 11 24H2 Pro v4.2\sources\install.wim
+22/12/2024 2:44:32 PM	Exporting C:\Users\Admin\Desktop\winiso\[Windows X-Lite] Optimum 11 24H2 Pro v4.2\sources\install.wim:1 -> C:\Users\Admin\AppData\Local\Temp\NLTmpWExp5599785f\install.wim
+22/12/2024 2:44:32 PM	 - WG Export
+22/12/2024 2:44:32 PM	GWH
+22/12/2024 2:44:38 PM	Image compression: 2
+22/12/2024 2:44:38 PM	GWH
+22/12/2024 2:44:53 PM	Deleting temporary files: C:\Users\Admin\AppData\Local\Temp\NLTmpWEDst785d3aaa
+22/12/2024 2:44:53 PM	Deleting temporary files: C:\Users\Admin\AppData\Local\Temp\NLTmpWESrc785d3aaa
+22/12/2024 2:44:53 PM	# 
